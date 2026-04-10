@@ -6,9 +6,8 @@
     "#": "minecraft:dark_oak_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

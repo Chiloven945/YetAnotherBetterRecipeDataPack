@@ -6,9 +6,9 @@
     "I": "minecraft:dandelion"
   },
   "pattern": [
-    "###",
+    " # ",
     "#I#",
-    "###"
+    " # "
   ],
   "result": {
     "id": "minecraft:golden_dandelion"

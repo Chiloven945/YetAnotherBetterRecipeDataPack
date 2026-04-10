@@ -4,12 +4,14 @@
   "key": {
     "#": "minecraft:cobblestone",
     "Q": "minecraft:quartz",
-    "R": "minecraft:redstone"
+    "R": "minecraft:redstone",
+    "T": "minecraft:redstone_torch",
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
-    "###",
-    "RRQ",
-    "###"
+    "#I#",
+    "TRQ",
+    "#I#"
   ],
   "result": {
     "id": "minecraft:observer"

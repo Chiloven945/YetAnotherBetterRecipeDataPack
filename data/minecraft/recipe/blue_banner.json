@@ -7,9 +7,8 @@
     "|": "minecraft:stick"
   },
   "pattern": [
-    "###",
-    "###",
-    " | "
+    "#",
+    "|"
   ],
   "result": {
     "id": "minecraft:blue_banner"

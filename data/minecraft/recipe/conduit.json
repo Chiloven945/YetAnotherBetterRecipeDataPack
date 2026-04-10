@@ -3,12 +3,13 @@
   "category": "misc",
   "key": {
     "#": "minecraft:nautilus_shell",
-    "X": "minecraft:heart_of_the_sea"
+    "X": "minecraft:heart_of_the_sea",
+    "C": "minecraft:prismarine_crystals"
   },
   "pattern": [
-    "###",
+    "C#C",
     "#X#",
-    "###"
+    "C#C"
   ],
   "result": {
     "id": "minecraft:conduit"

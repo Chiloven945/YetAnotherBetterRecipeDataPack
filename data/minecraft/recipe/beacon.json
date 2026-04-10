@@ -4,10 +4,11 @@
   "key": {
     "G": "minecraft:glass",
     "O": "minecraft:obsidian",
-    "S": "minecraft:nether_star"
+    "S": "minecraft:nether_star",
+    "D": "minecraft:diamond"
   },
   "pattern": [
-    "GGG",
+    "GDG",
     "GSG",
     "OOO"
   ],

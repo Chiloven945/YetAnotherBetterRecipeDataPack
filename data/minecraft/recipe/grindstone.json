@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "#minecraft:planks",
-    "-": "minecraft:stone_slab",
+    "#": "#minecraft:wooden_slabs",
+    "-": "#yabrdp:stone_slabs",
     "I": "minecraft:stick"
   },
   "pattern": [

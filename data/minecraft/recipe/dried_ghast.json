@@ -4,7 +4,7 @@
   "group": "dry_ghast",
   "key": {
     "#": "minecraft:ghast_tear",
-    "X": "minecraft:soul_sand"
+    "X": "#minecraft:soul_fire_base_blocks"
   },
   "pattern": [
     "###",

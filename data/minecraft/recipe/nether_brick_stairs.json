@@ -5,9 +5,8 @@
     "#": "minecraft:nether_bricks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

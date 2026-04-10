@@ -8,8 +8,8 @@
     "E": "#minecraft:eggs"
   },
   "pattern": [
-    "AAA",
-    "BEB",
+    "AEB",
+    "AEB",
     "CCC"
   ],
   "result": {

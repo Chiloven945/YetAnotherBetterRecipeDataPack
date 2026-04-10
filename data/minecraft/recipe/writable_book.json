@@ -4,7 +4,10 @@
   "ingredients": [
     "minecraft:book",
     "minecraft:ink_sac",
-    "minecraft:feather"
+    [
+      "minecraft:feather",
+      "minecraft:stick"
+    ]
   ],
   "result": {
     "id": "minecraft:writable_book"

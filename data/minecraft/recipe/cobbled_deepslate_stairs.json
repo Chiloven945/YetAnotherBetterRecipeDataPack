@@ -5,9 +5,8 @@
     "#": "minecraft:cobbled_deepslate"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

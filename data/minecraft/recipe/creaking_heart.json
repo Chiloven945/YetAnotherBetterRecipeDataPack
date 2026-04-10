@@ -6,9 +6,9 @@
     "R": "minecraft:resin_block"
   },
   "pattern": [
-    " L ",
-    " R ",
-    " L "
+    "LLL",
+    "RRR",
+    "LLL"
   ],
   "result": {
     "id": "minecraft:creaking_heart"

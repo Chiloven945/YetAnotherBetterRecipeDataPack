@@ -5,9 +5,8 @@
     "#": "minecraft:bamboo_mosaic"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

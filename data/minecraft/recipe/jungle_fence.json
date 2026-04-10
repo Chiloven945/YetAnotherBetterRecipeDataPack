@@ -7,7 +7,6 @@
     "W": "minecraft:jungle_planks"
   },
   "pattern": [
-    "W#W",
     "W#W"
   ],
   "result": {

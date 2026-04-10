@@ -3,11 +3,13 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:heavy_core",
-    "I": "minecraft:breeze_rod"
+    "I": "minecraft:breeze_rod",
+    "N": "minecraft:netherite_ingot"
   },
   "pattern": [
-    " # ",
-    " I "
+    "#",
+    "I",
+    "N"
   ],
   "result": {
     "id": "minecraft:mace"

@@ -2,12 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "#minecraft:wooden_slabs"
+    "#": "#minecraft:wooden_slabs",
+    "M": "moss_block"
   },
   "pattern": [
     "# #",
     "# #",
-    "###"
+    "#M#"
   ],
   "result": {
     "id": "minecraft:composter"

@@ -3,12 +3,14 @@
   "category": "misc",
   "key": {
     "G": "minecraft:glowstone",
-    "O": "minecraft:crying_obsidian"
+    "O": "minecraft:crying_obsidian",
+    "S": "minecraft:obsidian",
+    "B": "#minecraft:beds"
   },
   "pattern": [
-    "OOO",
-    "GGG",
-    "OOO"
+    "OSO",
+    "GNG",
+    "OSO"
   ],
   "result": {
     "id": "minecraft:respawn_anchor"

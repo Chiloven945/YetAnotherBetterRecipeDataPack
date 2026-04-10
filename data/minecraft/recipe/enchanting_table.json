@@ -3,13 +3,14 @@
   "category": "misc",
   "key": {
     "#": "minecraft:obsidian",
+    "C": "minecraft:crying_obsidian",
     "B": "minecraft:book",
     "D": "minecraft:diamond"
   },
   "pattern": [
     " B ",
     "D#D",
-    "###"
+    "#C#"
   ],
   "result": {
     "id": "minecraft:enchanting_table"

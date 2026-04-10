@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": "minecraft:copper_ingot",
+    "#": "#yabrdp:metal_nuggets",
     "I": "minecraft:stick",
     "X": "minecraft:feather"
   },

@@ -5,9 +5,8 @@
     "#": "minecraft:resin_bricks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

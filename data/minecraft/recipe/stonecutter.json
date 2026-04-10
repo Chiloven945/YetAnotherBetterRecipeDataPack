@@ -2,11 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "minecraft:stone",
-    "I": "minecraft:iron_ingot"
+    "#": "#yabrdp:material_stones",
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:stick"
   },
   "pattern": [
-    " I ",
+    "SIS",
     "###"
   ],
   "result": {

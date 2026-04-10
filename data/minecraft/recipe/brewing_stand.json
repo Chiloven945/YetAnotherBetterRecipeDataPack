@@ -2,11 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "#minecraft:stone_crafting_materials",
-    "B": "minecraft:blaze_rod"
+    "#": "#yabrdp:material_stones",
+    "B": "minecraft:blaze_rod",
+    "N": "#yabrdp:metal_nuggets"
   },
   "pattern": [
-    " B ",
+    " N ",
+    "NBN",
     "###"
   ],
   "result": {

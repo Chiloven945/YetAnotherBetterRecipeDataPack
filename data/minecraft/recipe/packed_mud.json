@@ -3,9 +3,18 @@
   "category": "building",
   "ingredients": [
     "minecraft:mud",
-    "minecraft:wheat"
+    "minecraft:mud",
+    "minecraft:mud",
+    "minecraft:mud",
+    [
+      "minecraft:wheat",
+      "minecraft:tall_dry_grass",
+      "minecraft:tall_grass",
+      "minecraft:large_fern"
+    ]
   ],
   "result": {
+    "count": 4, 
     "id": "minecraft:packed_mud"
   }
 }

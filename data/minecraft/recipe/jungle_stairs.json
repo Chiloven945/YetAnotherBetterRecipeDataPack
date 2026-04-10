@@ -6,9 +6,8 @@
     "#": "minecraft:jungle_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

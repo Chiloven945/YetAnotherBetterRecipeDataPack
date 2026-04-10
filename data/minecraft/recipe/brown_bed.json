@@ -4,11 +4,13 @@
   "group": "bed",
   "key": {
     "#": "minecraft:brown_wool",
-    "X": "#minecraft:planks"
+    "X": "#minecraft:planks",
+    "S": "minecraft:stick",
+    "W": "minecraft:white_wool"
   },
   "pattern": [
-    "###",
-    "XXX"
+    "W##",
+    "SXS"
   ],
   "result": {
     "id": "minecraft:brown_bed"

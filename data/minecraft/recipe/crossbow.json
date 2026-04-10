@@ -4,12 +4,12 @@
   "key": {
     "#": "minecraft:stick",
     "$": "minecraft:tripwire_hook",
-    "&": "minecraft:iron_ingot",
-    "~": "minecraft:string"
+    "&": "minecraft:iron_nugget",
+    "B": "minecraft:bow"
   },
   "pattern": [
-    "#&#",
-    "~$~",
+    "#B#",
+    "&$&",
     " # "
   ],
   "result": {

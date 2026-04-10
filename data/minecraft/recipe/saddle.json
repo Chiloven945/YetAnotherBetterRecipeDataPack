@@ -3,10 +3,11 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:iron_ingot",
-    "X": "minecraft:leather"
+    "X": "minecraft:leather",
+    "L": "minecraft:lead"
   },
   "pattern": [
-    " X ",
+    "LX ",
     "X#X"
   ],
   "result": {

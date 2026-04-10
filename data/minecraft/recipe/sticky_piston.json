@@ -3,7 +3,10 @@
   "category": "redstone",
   "key": {
     "P": "minecraft:piston",
-    "S": "minecraft:slime_ball"
+    "S": [
+      "minecraft:slime_ball",
+      "minecraft:honey_bottle"
+    ]
   },
   "pattern": [
     "S",

@@ -6,8 +6,7 @@
     "#": "minecraft:brown_stained_glass"
   },
   "pattern": [
-    "###",
-    "###"
+    "##"
   ],
   "result": {
     "count": 16,

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_special_firework_rocket",
   "fuel": "minecraft:gunpowder",
   "result": {
-    "count": 3,
+    "count": 6,
     "id": "minecraft:firework_rocket"
   },
   "shell": "minecraft:paper",

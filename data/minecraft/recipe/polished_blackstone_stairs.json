@@ -5,9 +5,8 @@
     "#": "minecraft:polished_blackstone"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

@@ -3,11 +3,15 @@
   "category": "building",
   "key": {
     "C": "minecraft:prismarine_crystals",
-    "S": "minecraft:prismarine_shard"
+    "S": "minecraft:prismarine_shard",
+    "G": [
+      "minecraft:glowstone_dust",
+      "minecraft:blaze_powder"
+    ]
   },
   "pattern": [
     "SCS",
-    "CCC",
+    "CGC",
     "SCS"
   ],
   "result": {

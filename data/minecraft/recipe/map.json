@@ -6,9 +6,9 @@
     "X": "minecraft:compass"
   },
   "pattern": [
-    "###",
+    " # ",
     "#X#",
-    "###"
+    " # "
   ],
   "result": {
     "id": "minecraft:map"

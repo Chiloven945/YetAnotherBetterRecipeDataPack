@@ -6,9 +6,8 @@
     "#": "minecraft:warped_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

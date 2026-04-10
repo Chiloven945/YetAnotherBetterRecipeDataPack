@@ -2,12 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "minecraft:smooth_stone",
+    "#": "#yabrdp:material_stones",
     "I": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget",
     "X": "minecraft:furnace"
   },
   "pattern": [
-    "III",
+    "NIN",
     "IXI",
     "###"
   ],

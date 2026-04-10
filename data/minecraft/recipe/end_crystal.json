@@ -4,12 +4,13 @@
   "key": {
     "E": "minecraft:ender_eye",
     "G": "minecraft:glass",
+    "P": "minecraft:glass_pane",
     "T": "minecraft:ghast_tear"
   },
   "pattern": [
-    "GGG",
+    "PGP",
     "GEG",
-    "GTG"
+    "PTP"
   ],
   "result": {
     "id": "minecraft:end_crystal"

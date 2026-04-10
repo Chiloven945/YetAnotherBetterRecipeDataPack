@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": "minecraft:copper_ingot",
-    "X": "minecraft:chest"
+    "X": "#yabrdp:storing_blocks"
   },
   "pattern": [
     "###",

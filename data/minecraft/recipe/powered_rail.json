@@ -4,15 +4,16 @@
   "key": {
     "#": "minecraft:stick",
     "R": "minecraft:redstone",
-    "X": "minecraft:gold_ingot"
+    "X": "minecraft:gold_ingot",
+    "C": "minecraft:copper_ingot"
   },
   "pattern": [
-    "X X",
+    "CRC",
     "X#X",
-    "XRX"
+    "CRC"
   ],
   "result": {
-    "count": 6,
+    "count": 12,
     "id": "minecraft:powered_rail"
   }
 }

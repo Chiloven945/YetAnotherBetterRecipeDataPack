@@ -3,12 +3,13 @@
   "category": "misc",
   "key": {
     "I": "minecraft:iron_block",
-    "i": "minecraft:iron_ingot"
+    "i": "minecraft:iron_ingot",
+    "n": "minecraft:iron_nugget"
   },
   "pattern": [
-    "III",
+    "IiI",
     " i ",
-    "iii"
+    "nIn"
   ],
   "result": {
     "id": "minecraft:anvil"

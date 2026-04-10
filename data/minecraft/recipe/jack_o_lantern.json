@@ -3,7 +3,10 @@
   "category": "building",
   "key": {
     "A": "minecraft:carved_pumpkin",
-    "B": "minecraft:torch"
+    "B": [
+      "minecraft:torch",
+      "minecraft:soul_torch"
+    ]
   },
   "pattern": [
     "A",

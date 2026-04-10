@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "minecraft:bamboo_planks",
+    "X": "minecraft:bamboo",
+    "C": "#yabrdp:storing_blocks"
+  },
+  "pattern": [
+    " X ",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_chest_raft"
+  }
+}

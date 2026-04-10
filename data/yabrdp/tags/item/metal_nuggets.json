@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:metal_nuggets",
+    {
+      "id": "#c:nuggets",
+      "required": false
+    }
+  ]
+}

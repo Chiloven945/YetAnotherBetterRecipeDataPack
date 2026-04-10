@@ -5,9 +5,8 @@
     "#": "minecraft:slime_ball"
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
     "id": "minecraft:slime_block"

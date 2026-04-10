@@ -6,9 +6,9 @@
     "X": "minecraft:leather"
   },
   "pattern": [
-    "###",
+    " # ",
     "#X#",
-    "###"
+    " # "
   ],
   "result": {
     "id": "minecraft:item_frame"

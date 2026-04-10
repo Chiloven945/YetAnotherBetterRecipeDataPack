@@ -2,13 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
-    "C": "minecraft:chest",
-    "I": "minecraft:iron_ingot"
+    "C": "#yabrdp:storing_blocks",
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget"
   },
   "pattern": [
-    "I I",
+    "N N",
     "ICI",
-    " I "
+    " N "
   ],
   "result": {
     "id": "minecraft:hopper"

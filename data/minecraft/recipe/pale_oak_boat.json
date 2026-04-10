@@ -3,10 +3,11 @@
   "category": "misc",
   "group": "boat",
   "key": {
-    "#": "minecraft:pale_oak_planks"
+    "#": "minecraft:pale_oak_planks",
+    "X": "minecraft:wooden_shovel"
   },
   "pattern": [
-    "# #",
+    "#X#",
     "###"
   ],
   "result": {

@@ -4,11 +4,12 @@
   "group": "harness",
   "key": {
     "#": "minecraft:red_wool",
-    "G": "minecraft:glass",
-    "L": "minecraft:leather"
+    "G": "minecraft:glass_pane",
+    "L": "minecraft:leather",
+    "S": "minecraft:string"
   },
   "pattern": [
-    "LLL",
+    "LSL",
     "G#G"
   ],
   "result": {

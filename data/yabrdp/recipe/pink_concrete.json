@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "building",
+  "key": {
+    "X": "minecraft:water_bucket",
+    "#": "minecraft:pink_concrete_powder"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:pink_concrete"
+  }
+}

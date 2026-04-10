@@ -3,7 +3,10 @@
   "category": "misc",
   "ingredients": [
     "minecraft:item_frame",
-    "minecraft:glow_ink_sac"
+    [
+      "minecraft:glow_ink_sac",
+      "glowstone_dust"
+    ]
   ],
   "result": {
     "id": "minecraft:glow_item_frame"

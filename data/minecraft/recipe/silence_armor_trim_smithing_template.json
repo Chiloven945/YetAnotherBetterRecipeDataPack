@@ -7,9 +7,9 @@
     "S": "minecraft:silence_armor_trim_smithing_template"
   },
   "pattern": [
-    "#S#",
     "#C#",
-    "###"
+    "CSC",
+    "#C#"
   ],
   "result": {
     "count": 2,

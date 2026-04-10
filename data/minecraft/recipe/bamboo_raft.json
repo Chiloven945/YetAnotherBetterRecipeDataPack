@@ -3,10 +3,11 @@
   "category": "misc",
   "group": "boat",
   "key": {
-    "#": "minecraft:bamboo_planks"
+    "#": "minecraft:bamboo_planks",
+    "X": "minecraft:bamboo"
   },
   "pattern": [
-    "# #",
+    "#X#",
     "###"
   ],
   "result": {

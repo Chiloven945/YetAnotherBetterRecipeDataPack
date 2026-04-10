@@ -3,12 +3,13 @@
   "category": "redstone",
   "key": {
     "H": "minecraft:hay_block",
-    "R": "minecraft:redstone"
+    "R": "minecraft:redstone",
+    "S": "minecraft:string"
   },
   "pattern": [
-    " R ",
+    "SRS",
     "RHR",
-    " R "
+    "SRS"
   ],
   "result": {
     "id": "minecraft:target"

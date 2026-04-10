@@ -6,7 +6,6 @@
     "W": "minecraft:nether_bricks"
   },
   "pattern": [
-    "W#W",
     "W#W"
   ],
   "result": {

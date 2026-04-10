@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": "minecraft:iron_ingot"
+    "#": "#yabrdp:metal_ingots"
   },
   "pattern": [
     " #",

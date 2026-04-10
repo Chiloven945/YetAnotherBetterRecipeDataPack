@@ -3,12 +3,13 @@
   "category": "equipment",
   "key": {
     "W": "#minecraft:wooden_tool_materials",
-    "o": "minecraft:iron_ingot"
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget"
   },
   "pattern": [
-    "WoW",
-    "WWW",
-    " W "
+    "NWN",
+    "IWI",
+    "NWN"
   ],
   "result": {
     "id": "minecraft:shield"

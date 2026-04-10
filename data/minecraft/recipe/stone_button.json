@@ -5,6 +5,7 @@
     "minecraft:stone"
   ],
   "result": {
+    "count": 8,
     "id": "minecraft:stone_button"
   }
 }

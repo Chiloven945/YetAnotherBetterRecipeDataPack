@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:crafting_table",
+    "@": "minecraft:arrow"
+  },
+  "pattern": [
+    "@@",
+    "# "
+  ],
+  "result": {
+    "id": "minecraft:fletching_table"
+  }
+}

@@ -6,9 +6,8 @@
     "#": "minecraft:crimson_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

@@ -6,9 +6,9 @@
     "X": "#minecraft:wool"
   },
   "pattern": [
-    "###",
+    " # ",
     "#X#",
-    "###"
+    " # "
   ],
   "result": {
     "id": "minecraft:painting"

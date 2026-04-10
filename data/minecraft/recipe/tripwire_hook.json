@@ -3,7 +3,7 @@
   "category": "redstone",
   "key": {
     "#": "#minecraft:planks",
-    "I": "minecraft:iron_ingot",
+    "I": "#yabrdp:metal_ingots",
     "S": "minecraft:stick"
   },
   "pattern": [

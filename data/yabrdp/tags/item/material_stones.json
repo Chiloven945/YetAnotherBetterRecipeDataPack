@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:tuff",
+    "minecraft:deepslate",
+    "#minecraft:stone_crafting_materials",
+    {
+      "id": "#c:stones",
+      "required": false
+    },
+    {
+      "id": "#c:cobblestones",
+      "required": false
+    }
+  ]
+}

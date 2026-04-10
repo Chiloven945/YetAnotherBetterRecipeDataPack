@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     "minecraft:paper",
-    "minecraft:oxeye_daisy"
+    "#minecraft:flowers"
   ],
   "result": {
     "id": "minecraft:flower_banner_pattern"

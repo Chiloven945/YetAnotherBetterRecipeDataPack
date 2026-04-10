@@ -3,12 +3,13 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:gold_ingot",
+    "N": "minecraft:gold_nugget",
     "X": "minecraft:redstone"
   },
   "pattern": [
-    " # ",
+    " N ",
     "#X#",
-    " # "
+    " N "
   ],
   "result": {
     "id": "minecraft:clock"

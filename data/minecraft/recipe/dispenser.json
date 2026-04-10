@@ -4,12 +4,13 @@
   "key": {
     "#": "minecraft:cobblestone",
     "R": "minecraft:redstone",
-    "X": "minecraft:bow"
+    "X": "minecraft:bow",
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
     "###",
     "#X#",
-    "#R#"
+    "IRI"
   ],
   "result": {
     "id": "minecraft:dispenser"

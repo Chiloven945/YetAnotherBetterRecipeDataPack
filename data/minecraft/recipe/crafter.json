@@ -3,12 +3,14 @@
   "category": "redstone",
   "key": {
     "#": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget",
+    "O": "minecraft:observer",
     "C": "minecraft:crafting_table",
     "D": "minecraft:dropper",
     "R": "minecraft:redstone"
   },
   "pattern": [
-    "###",
+    "NON",
     "#C#",
     "RDR"
   ],

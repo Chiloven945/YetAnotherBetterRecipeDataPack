@@ -9,9 +9,8 @@
     "X": "minecraft:gunpowder"
   },
   "pattern": [
-    "X#X",
-    "#X#",
-    "X#X"
+    "X#",
+    "#X"
   ],
   "result": {
     "id": "minecraft:tnt"

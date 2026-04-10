@@ -2,11 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "minecraft:iron_ingot"
+    "#": "minecraft:iron_ingot",
+    "X": "minecraft:iron_nugget"
   },
   "pattern": [
     "# #",
-    "###"
+    "X#X"
   ],
   "result": {
     "id": "minecraft:minecart"

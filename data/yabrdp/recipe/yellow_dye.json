@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glowstone"
+  ],
+  "result": {
+    "id": "minecraft:yellow_dye"
+  }
+}

@@ -3,10 +3,11 @@
   "category": "misc",
   "key": {
     "#": "minecraft:obsidian",
-    "E": "minecraft:ender_eye"
+    "E": "minecraft:ender_eye",
+    "D": "minecraft:diamond"
   },
   "pattern": [
-    "###",
+    "#D#",
     "#E#",
     "###"
   ],

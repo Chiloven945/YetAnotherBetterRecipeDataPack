@@ -6,9 +6,9 @@
     "X": "minecraft:melon_slice"
   },
   "pattern": [
-    "###",
+    " # ",
     "#X#",
-    "###"
+    " # "
   ],
   "result": {
     "id": "minecraft:glistering_melon_slice"

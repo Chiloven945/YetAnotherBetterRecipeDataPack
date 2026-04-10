@@ -6,9 +6,8 @@
     "#": "minecraft:mangrove_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

@@ -5,9 +5,8 @@
     "#": "minecraft:diorite"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

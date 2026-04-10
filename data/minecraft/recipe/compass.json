@@ -3,12 +3,13 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget",
     "X": "minecraft:redstone"
   },
   "pattern": [
-    " # ",
+    " N ",
     "#X#",
-    " # "
+    " N "
   ],
   "result": {
     "id": "minecraft:compass"

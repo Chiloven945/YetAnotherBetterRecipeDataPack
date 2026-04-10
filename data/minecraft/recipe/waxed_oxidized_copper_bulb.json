@@ -3,9 +3,9 @@
   "category": "redstone",
   "group": "waxed_oxidized_copper_bulb",
   "key": {
-    "B": "minecraft:blaze_rod",
+    "B": "minecraft:redstone_lamp",
     "C": "minecraft:waxed_oxidized_copper",
-    "R": "minecraft:redstone"
+    "R": "minecraft:lever"
   },
   "pattern": [
     " C ",

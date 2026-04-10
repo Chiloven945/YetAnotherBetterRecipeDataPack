@@ -5,9 +5,8 @@
     "#": "minecraft:oxidized_cut_copper"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

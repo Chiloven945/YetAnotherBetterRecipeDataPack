@@ -5,9 +5,8 @@
     "#": "minecraft:mossy_cobblestone"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

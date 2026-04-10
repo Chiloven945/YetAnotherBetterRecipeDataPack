@@ -4,8 +4,8 @@
   "key": {
     "#": "minecraft:cobblestone",
     "R": "minecraft:redstone",
-    "T": "#minecraft:planks",
-    "X": "minecraft:iron_ingot"
+    "T": "#minecraft:wooden_slabs",
+    "X": "#yabrdp:metal_ingots"
   },
   "pattern": [
     "TTT",

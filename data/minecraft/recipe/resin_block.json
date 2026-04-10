@@ -5,9 +5,8 @@
     "#": "minecraft:resin_clump"
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
     "id": "minecraft:resin_block"

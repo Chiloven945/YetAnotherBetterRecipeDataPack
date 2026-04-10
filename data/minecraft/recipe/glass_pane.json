@@ -5,8 +5,7 @@
     "#": "minecraft:glass"
   },
   "pattern": [
-    "###",
-    "###"
+    "##"
   ],
   "result": {
     "count": 16,

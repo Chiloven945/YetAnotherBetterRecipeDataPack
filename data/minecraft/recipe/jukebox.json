@@ -3,10 +3,11 @@
   "category": "misc",
   "key": {
     "#": "#minecraft:planks",
+    "S": "#minecraft:wooden_slabs",
     "X": "minecraft:diamond"
   },
   "pattern": [
-    "###",
+    "SSS",
     "#X#",
     "###"
   ],

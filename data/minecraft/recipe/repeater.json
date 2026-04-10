@@ -3,12 +3,12 @@
   "category": "redstone",
   "key": {
     "#": "minecraft:redstone_torch",
-    "I": "minecraft:stone",
+    "I": "#yabrdp:stone_slabs",
     "X": "minecraft:redstone"
   },
   "pattern": [
-    "#X#",
-    "III"
+    "# #",
+    "IXI"
   ],
   "result": {
     "id": "minecraft:repeater"

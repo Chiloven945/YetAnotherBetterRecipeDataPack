@@ -5,9 +5,8 @@
     "#": "minecraft:granite"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

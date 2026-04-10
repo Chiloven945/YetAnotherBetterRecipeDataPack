@@ -3,12 +3,14 @@
   "category": "misc",
   "key": {
     "#": "#minecraft:logs",
+    "S": "minecraft:stick",
+    "C": "minecraft:coal_block",
     "X": "minecraft:furnace"
   },
   "pattern": [
-    " # ",
-    "#X#",
-    " # "
+    "SSS",
+    "SXS",
+    "#C#"
   ],
   "result": {
     "id": "minecraft:smoker"

@@ -3,12 +3,15 @@
   "category": "misc",
   "key": {
     "#": "minecraft:iron_ingot",
-    "S": "minecraft:chiseled_stone_bricks"
+    "S": "minecraft:chiseled_stone_bricks",
+    "B": "minecraft:stone_brick_slab",
+    "L": "minecraft:lapis_lazuli",
+    "R": "minecraft:redstone"
   },
   "pattern": [
-    "SSS",
-    "S#S",
-    "SSS"
+    "SBS",
+    "L#R",
+    "SBS"
   ],
   "result": {
     "id": "minecraft:lodestone"

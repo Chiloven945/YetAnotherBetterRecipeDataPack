@@ -6,9 +6,9 @@
     "S": "minecraft:prismarine_shard"
   },
   "pattern": [
-    "SSS",
+    " S ",
     "SIS",
-    "SSS"
+    " S "
   ],
   "result": {
     "id": "minecraft:dark_prismarine"

@@ -5,9 +5,8 @@
     "#": "minecraft:deepslate_bricks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
     "count": 4,

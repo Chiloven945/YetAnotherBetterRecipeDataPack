@@ -3,12 +3,13 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "minecraft:string"
+    "X": "minecraft:lead",
+    "N": "#yabrdp:metal_nuggets"
   },
   "pattern": [
     "  #",
     " #X",
-    "# X"
+    "# N"
   ],
   "result": {
     "id": "minecraft:fishing_rod"

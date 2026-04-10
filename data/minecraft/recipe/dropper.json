@@ -3,12 +3,13 @@
   "category": "redstone",
   "key": {
     "#": "minecraft:cobblestone",
-    "R": "minecraft:redstone"
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
     "###",
     "# #",
-    "#R#"
+    "IRI"
   ],
   "result": {
     "id": "minecraft:dropper"

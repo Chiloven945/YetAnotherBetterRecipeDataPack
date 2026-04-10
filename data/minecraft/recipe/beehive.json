@@ -3,11 +3,11 @@
   "category": "misc",
   "key": {
     "H": "minecraft:honeycomb",
-    "P": "#minecraft:planks"
+    "P": "#minecraft:wooden_slabs"
   },
   "pattern": [
     "PPP",
-    "HHH",
+    "H H",
     "PPP"
   ],
   "result": {

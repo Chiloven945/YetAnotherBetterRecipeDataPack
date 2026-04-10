@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:redstone",
+    "S": "minecraft:stick",
+    "I": "#yabrdp:stone_slabs",
+    "X": "minecraft:redstone"
+  },
+  "pattern": [
+    "# #",
+    "S S",
+    "IXI"
+  ],
+  "result": {
+    "id": "minecraft:repeater"
+  }
+}

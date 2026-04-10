@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "#minecraft:planks"
+    "#": "#minecraft:wooden_slabs"
   },
   "pattern": [
     "# #",
     " # "
   ],
   "result": {
-    "count": 4,
+    "count": 12,
     "id": "minecraft:bowl"
   }
 }

@@ -3,8 +3,11 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "minecraft:flint",
-    "Y": "minecraft:feather"
+    "X": "#yabrdp:metal_nuggets",
+    "Y": [
+      "minecraft:feather",
+      "minecraft:paper"
+    ]
   },
   "pattern": [
     "X",
